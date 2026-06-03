@@ -1,0 +1,41 @@
+# Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Directorios de node_modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de compilación
+dist/
+build/
+*.o
+*.a
+*.so
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# Archivos temporales
+tmp/
+temp/
+
+# Backup files
+*.bak
+*.backup
